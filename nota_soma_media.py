@@ -6,6 +6,6 @@ while i <= 4:
     notas.append(n)
     soma += n
     i += 1
-        
+
 print (notas)
 print (soma/4)
